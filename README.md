@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pedro Giampietro
 Desenvolvedor Web - Trainee/Junior / FullStack
 
