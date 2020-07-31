@@ -16,12 +16,13 @@ Concluído em 07/2020
 ## Experência Profissional
 <br>
 CEJAM - Centro de Estudos e Pesquisas "Dr. João Amorim" - Rio de Janeiro
-Analista de Suporte Técnico - Setembro/2016 a Janeiro/2020 .
+Analista de Suporte Técnico - <br>
+Setembro/2016 a Janeiro/2020 . <br>
   * Prestar suporte técnico aos usuários da rede de hospitais administrados pela
 empresa, atuando como suporte direto aos sistemas utilizados nas unidades, tais
-como MV HIS Hospitalar, WTT Pacs Images entre outros.
+como MV HIS Hospitalar, WTT Pacs Images entre outros. <br>
 * Execução de rotinas básicas de banco de dados como criação de queries e rotinas
-de backups.
+de backups. <br>
 * Instalação e configuração de software e hardware.
 
 
