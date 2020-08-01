@@ -44,7 +44,7 @@ de backups. <br>
 * Material Kit.
 * Bootstrap.
 
-### Frameworks Front-end
+### Front-end
 * React
 
 ### Linguagens de Programação
