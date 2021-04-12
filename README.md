@@ -56,10 +56,13 @@ de backups. <br>
 * Restify
 * Hapi
 
+
 ### Banco de Dados
 * MySQL.
 * Firebase.
 * Mongoose.
+
+- React, Redux, Cookie, MySQL, Sequelize ORM, Axios, Joi, Crypto.
 
 ### Sistemas de controle de versão
 * Git.
@@ -71,7 +74,8 @@ de backups. <br>
 ## Cursos
 * Curso Git e Github para iniciantes (Udemy)
 * Curso JavaScript HCODE (Udemy)
-* Curso React JS Matheus Fraga (Udemy)
+* Curso React JS Matheus Fraga (Udemy).
+* Bootcamp Ignite Rocketseat
 
 
 ## Redes Sociais
